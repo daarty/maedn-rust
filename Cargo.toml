@@ -1,0 +1,7 @@
+[package]
+name = "maedn-rust"
+version = "0.1.0"
+authors = ["da Arty Oo <daarty@freenet.de>"]
+edition = "2018"
+
+[dependencies]
